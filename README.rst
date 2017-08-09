@@ -1,4 +1,4 @@
-## This repo has moves to https://github.com/resendislab/micom and will not be updated!
+**This repo has moved to https://github.com/resendislab/micom and will not be updated!**
 
 .. image:: https://github.com/cdiener/micom/raw/master/micom.png
 
